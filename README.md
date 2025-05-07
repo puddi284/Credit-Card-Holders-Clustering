@@ -32,7 +32,7 @@ The notebook explores customer segmentation based on spending behavior. It uses 
    Or run it directly in [Google Colab](https://colab.research.google.com/):
 
    ```
-   https://colab.research.google.com/drive/1U7VscRlIsPFYrqH8TYux3r6wKl_m-WU4?usp=sharing#scrollTo=vp_bxsF8l-3a
+   https://colab.research.google.com/github/puddi284/Credit-Card-Holders-Clustering/blob/main/Credit_Card_Holders_Clustering.ipynb
    ```
 
 ## 📊 Libraries Used
