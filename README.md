@@ -44,10 +44,8 @@ The notebook explores customer segmentation based on spending behavior. It uses 
 - scikit-learn
 - scipy
 
-## 📌 Notes
-
-Make sure your dataset (if external) is also uploaded or loaded correctly if required by the notebook.
-
 ## 📬 Contact
 
-For questions or collaborations, feel free to reach out via GitHub.
+For questions or collaborations, feel free to reach out via:
+- 📧Email: buudiem284@gmail.com
+- 📞Phone/Zalo: (+84) 812698938
